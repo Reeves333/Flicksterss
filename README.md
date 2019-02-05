@@ -23,8 +23,9 @@ Unit 2 work fixed
 ### App Walkthough GIF
 
 
-
+<img src='Unit2 gif pt2.gif' Title = 'unit2 lab' width=250><br>
 <img src='Unit2 gif.2.gif' Title = 'unit2 lab' width=250><br>
+
 
 ### Notes
 
